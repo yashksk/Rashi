@@ -1,0 +1,117 @@
+body {
+  margin-top: 0;
+  text-align: center;
+  font-family: Heebo;
+  color: #EFFFFD;
+}
+
+.top-container {
+  background-color: #90E0EF;
+  margin: 0;
+}
+
+h1 {
+  margin-top: 150px;
+  display: inline-block;
+  font-family: Sacramento;
+  font-size: 5.625rem;
+  margin-bottom: 30px;
+  color: #00B4D8;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  margin-top: 0;
+  font-size: 2.5rem;
+  color: #00B4D8;
+  font-weight: normal;
+}
+
+.clouddown {
+  position: absolute;
+  bottom: 370px;
+  left: 150px;
+}
+
+.cloudup {
+  position: absolute;
+  bottom: 580px;
+  right: 150px;
+}
+
+.middle-container {
+  background-color: #398AB9;
+  padding: 100px 0;
+}
+
+.mycir {
+  border-radius: 50px;
+  width: 20%;
+}
+
+.profile-des {
+  display: inline-block;
+  width: 30%;
+}
+
+hr {
+  border-style: none;
+  border-color: #B8FFF9;
+  border-top-style: dotted;
+  width: 4%;
+  border-top-width: 6px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.skill-row {
+  margin: 100px auto 100px;
+  width: 50%;
+  text-align: left;
+}
+
+.comp {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+h3 {
+  color: #90E0EF;
+  font-family: Montserrat;
+}
+
+p {
+  line-height: 2;
+}
+
+.contact {
+  width: 40%;
+  margin: 10px auto;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.bottom-container {
+  padding: 30px 10px 30px;
+  background-color: #03045E;
+}
+
+.boo-1 {
+  width: 30%;
+}
+
+.chilli {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
